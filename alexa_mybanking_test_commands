@@ -1,0 +1,27 @@
+
+
+Alexa mybanking commands to test:
+
+Alexa mybanking
+
+mybanking balance <accountnumber>
+
+mybanking last five transactions <accountnumber>
+
+
+
+Features to add----------------------------------------------------------
+
+security --> mobile number verification
+
+transactions between dates
+
+account number input
+
+transfer money between accounts
+
+total of debit transactions
+
+---------------------------------------------------------------------------
+
+
